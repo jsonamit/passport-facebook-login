@@ -39,7 +39,7 @@
     "ejs": "^2.5.2",
     "express": "^4.14.0",
     "express-session": "^1.14.2",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "passport": "^0.3.2",
     "passport-facebook": "^3.0.0",
